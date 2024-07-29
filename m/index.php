@@ -49,13 +49,6 @@
 		</header>
 		<menu ng-show="app.menuVisible">
 			<li class="productos" ng-repeat="c in app.categorias.lista" ng-click="app.ir('productos/' + c.id)">{{ c.nombre }}</li>
-			<li class="productos" ng-click="app.ir('productos/mayor')">COMPRAS AL MAYOR</li>
-			<li ng-click="app.ir('reportar-pago')">Reportar Pago</li>
-			<li ng-click="app.ir('comentarios')">Comentarios y Testimonios</li>
-			<li ng-click="app.ir('rastrear-paquete')">Rastrear Paquete</li>
-			<li ng-click="app.ir('quienes-somos')">¿Quiénes Somos?</li>
-			<li ng-click="app.ir('como-comprar')">¿Cómo comprar?</li>
-			<li ng-click="app.ir('preguntas-frecuentes')">Preguntas Frecuentes</li>
 		</menu>
 		<main ng-view></main>
 		<footer>
@@ -65,7 +58,7 @@
 			--><div class="fb" onclick="window.open('http://www.facebook.com/lucymodascolombia')">
 				<img src="res/img/fb.png" alt="fb">
 			</div><!--
-			--><div class="in" onclick="window.open('http://www.instagram.com/lucymodascolombia')">
+			--><div class="in" onclick="window.open('http://www.instagram.com/Isidoramodascl')">
 				<img src="res/img/in.png" alt="in">
 			</div>
 		</footer>

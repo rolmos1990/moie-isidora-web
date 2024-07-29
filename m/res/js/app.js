@@ -7,9 +7,9 @@
     app.config(function($routeProvider){
         $routeProvider.
             when('/',{templateUrl:'res/html/inicio.html',controller:'inicioController',controllerAs:'inicio'}).
-            when('/reportar-pago',{templateUrl:'res/html/reportar-pago.html',controller:'pagoController',controllerAs:'pago'}).
-            when('/rastrear-paquete',{templateUrl:'res/html/rastrear-paquete.html',controller:'paqueteController',controllerAs:'paquete'}).
-            when('/comentarios',{templateUrl:'res/html/comentarios.html',controller:'comentariosController',controllerAs:'comentarios'}).
+            //when('/reportar-pago',{templateUrl:'res/html/reportar-pago.html',controller:'pagoController',controllerAs:'pago'}).
+            //when('/rastrear-paquete',{templateUrl:'res/html/rastrear-paquete.html',controller:'paqueteController',controllerAs:'paquete'}).
+            //when('/comentarios',{templateUrl:'res/html/comentarios.html',controller:'comentariosController',controllerAs:'comentarios'}).
             when('/productos/:categoria',{templateUrl:'res/html/productos.html',controller:'productosController',controllerAs:'productos'}).
             when('/productos/:categoria/:producto',{templateUrl:'res/html/producto.html?201711080535',controller:'productoController',controllerAs:'producto'}).
             when('/quienes-somos',{templateUrl:'res/html/quienes-somos.html'}).

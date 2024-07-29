@@ -106,11 +106,9 @@
         </div>
         <div id="header">
             <menu id="superior">
-                <div id="bandera"><img src="/img/bandera.png" /><span>MEDELLÍN<br>(4) 5564365</span></div>
+                <div id="bandera"><img src="/img/bandera.png" style="height:22px;position:relative;top:2px;" /><span>Envíos a todo el país <br>Paga al recibir</span></div>
                 <ul>
-                    <li onclick="location.href='<?=base_url();?>site/quienes_somos'">¿Quiénes Somos?</li><!--
-                    --><li onclick="location.href='<?=base_url();?>site/como_comprar'">¿Cómo Comprar?</li><!--
-                    --><li onclick="location.href='<?=base_url();?>site/preguntas_frecuentes'">Preguntas Frecuentes</li><!--
+                       <!--
                     --><li onclick="window.open('https://www.facebook.com/lucymodascolombia')"><img src="/img/fb-verificacion.png?20171109" alt="verificacion facebook"></li>
                 </ul>
                 <!--<div id="juego">
@@ -125,8 +123,8 @@
                     <span class="link" onclick="window.open('https://www.facebook.com/lucymodascolombia')">
                         <img src="/img/fb.png"><b>lucymodascolombia</b>
                     </span>
-                    <span class="link" onclick="window.open('https://www.instagram.com/lucymodascolombia')">
-                        <img src="/img/in.png"><b>lucymodascolombia</b>
+                    <span class="link" onclick="window.open('https://www.instagram.com/Isidoramodascl')">
+                        <img src="/img/in.png"><b>Isidoramodascl</b>
                     </span>
                     <!--<span>
                         <img src="/img/tw.png"><b>@Lucymodascol</b>
@@ -170,10 +168,4 @@
                 </ul>
             </menu>
             <?php } ?>
-        </div>
-        <div id="rastreo" class="pestana_izq" onclick="window.location.href='<?=base_url();?>site/tracking'">
-            Rastrea tu Paquete
-        </div>
-        <div id="comentario" class="pestana_izq" onclick="window.location.href='<?=base_url();?>site/comentarios'">
-            Comentarios y Testimonios
         </div>

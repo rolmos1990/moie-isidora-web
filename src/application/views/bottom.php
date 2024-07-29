@@ -6,7 +6,7 @@
             <img src="/img/fb.png">lucymodascolombia
         </span>
         <span>
-            <img src="/img/in.png">lucymodascolombia
+            <img src="/img/in.png">Isidoramodascl
         </span>
         <span>
             <img src="/img/tl.png">317.568.71.13

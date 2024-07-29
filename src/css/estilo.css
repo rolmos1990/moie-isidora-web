@@ -48,7 +48,7 @@ menu#superior{
     position:relative;
 }
 #bandera{
-    width: 120px;
+    width: 200px;
     height: 32px;
     margin: 0;
     padding: 0;
@@ -76,7 +76,7 @@ menu#superior ul{
     padding: 0;
     position: absolute;
     top: 0;
-    left: 138px;
+    left: 200px;
 }
 menu#superior ul li{
     padding: 0 5px;
@@ -192,7 +192,7 @@ menu#principal ul{
     left: 0;
     border-top: #DE0C70 solid 3px;
     border-bottom: #DE0C70 solid 3px;
-    display: table;
+    display: inline;
 }
 menu#principal ul li{
     height:30px;

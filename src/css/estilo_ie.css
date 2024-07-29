@@ -40,7 +40,7 @@ menu#superior{
     position:relative;
 }
 #bandera{
-    width: 120px;
+    width: 200px;
     height: 32px;
     margin: 0;
     padding: 0;
@@ -68,7 +68,7 @@ menu#superior ul{
     padding: 0;
     position: absolute;
     top: 0;
-    left: 138px;
+    left: 200px;
 }
 menu#superior ul li{
     padding: 0 15px;
@@ -177,7 +177,7 @@ menu#principal ul li{
     font-size: 1.2em;
     cursor: pointer;
     list-style: none;
-    padding: 0 10px;
+    padding: 0 20px;
 }
 menu#principal ul li:hover{
     color: #DE0C70;
