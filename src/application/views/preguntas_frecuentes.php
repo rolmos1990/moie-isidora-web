@@ -30,7 +30,7 @@
     </div>
     <div class="pregunta">
         <h2 onclick="activar_pregunta($(this).parent('.pregunta'))"><img src="/img/flecha.png">¿DESPÚES DE REALIZAR EL PAGO QUE TENGO QUE HACER?</h2>
-        <p class="respuesta">Debe ingresar a la sección “REPORTAR PAGO” de nuestra página web www.lucymodas.com y llenar el formulario con todos los datos. Luego haga clic en reportar pago y cuando el pago sea validado o confirmado en nuestras cuentas bancarias recibirá un mensaje de texto.</p>
+        <p class="respuesta">Debe ingresar a la sección “REPORTAR PAGO” de nuestra página web www.isidoramodas.com y llenar el formulario con todos los datos. Luego haga clic en reportar pago y cuando el pago sea validado o confirmado en nuestras cuentas bancarias recibirá un mensaje de texto.</p>
     </div>
     <div class="pregunta">
         <h2 onclick="activar_pregunta($(this).parent('.pregunta'))"><img src="/img/flecha.png">¿REALIZAN CAMBIOS?</h2>

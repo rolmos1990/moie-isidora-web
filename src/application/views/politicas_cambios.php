@@ -23,7 +23,7 @@ con sus etiquetas originales.</li>
        <p>Una vez hayas solicitado la devolución de tu producto podrás escoger
 entre las siguientes opciones:</p>
 <ul>
-    <li>Nota crédito para realizar una nueva compra en lucymodas.com.</li>
+    <li>Nota crédito para realizar una nueva compra en isidoramodas.com.</li>
     <li>Devolución del dinero.</li>
 </ul>
 <p>
@@ -44,7 +44,7 @@ buen estado y limpia y con sus etiquetas originales.
 </p>
 <h4>Los tiempos para el cambio:</h4>
 <ul>
-    <li>La nota crédito para realizar una nueva compra en lucymodas.com
+    <li>La nota crédito para realizar una nueva compra en isidoramodas.com
 será asentada de forma inmediata en nuestro sistema y será redimible
 en cualquier momento por parte de la cliente una vez que se verifique
 la recepción de las prendas objeto del cambio en nuestras bodegas y
@@ -85,10 +85,10 @@ recibiste.</p>
 <p>Los costos de transporte y demás, incurridos en la devolución serán
 asumidos por ti.</p>
 <p>Para gestionar la devolución de tu producto te debes comunicar por
-nuestros canales de atención en lucymodas.com, Facebook o
+nuestros canales de atención en isidoramodas.com, Facebook o
 Whatsapp.</p>
 <p>En caso de que se cumplan todas las condiciones mencionadas,
-<b>LUCY MODAS COLOMBIA S.A.S</b> devolverá la suma total pagada, sin
+<b>ISIDORA MODAS S.A.S</b> devolverá la suma total pagada, sin
 descuentos o retenciones, y el término para la devolución del dinero
 no podrá exceder de 30 días calendario.</p>
 <p>De acuerdo con el numeral 7 del artículo 47 de la ley 1480, se

@@ -1,7 +1,7 @@
 (function(){
     
     var app = angular.module('app',['ngRoute','lcm-helpers','lcm-filtros']);
-    var api = 'https://www.lucymodas.com/api/';
+    var api = 'https://www.isidoramodas.com/api/';
 
     /*Rutas*/
     app.config(function($routeProvider){
