@@ -10,7 +10,7 @@ class Site extends CI_Controller {
             $request = parse_url($_SERVER['REQUEST_URI']);
             $path = $request["path"];
             $result = rtrim(str_replace(basename($_SERVER['SCRIPT_NAME']), '', $path), '/');
-            header('Location: https://www.lucymodas.com/m/' . str_replace('site', '#', $result));
+            header('Location: https://www.isidoramodas.com/m/' . str_replace('site', '#', $result));
         }   
         parent::__construct();
     }

@@ -2,7 +2,7 @@
 
 class Movil extends CI_Controller {
     public function index(){
-        echo "LucyModas Movil API 0.1";
+        echo "Isidora Movil API 0.1";
     }
     public function categorias(){
         $this->load->model('m_site');

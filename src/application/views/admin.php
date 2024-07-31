@@ -2,7 +2,7 @@
     <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-        <title>LucyModas - Administración</title>
+        <title>IsidoraModas - Administración</title>
         <link rel="stylesheet" href="/res/css/admin/estilo.css?20200517">
         <link rel="stylesheet" href="/res/css/ngDialog.css">
         <link rel="stylesheet" href="/res/css/ngDialog-theme-default.css">

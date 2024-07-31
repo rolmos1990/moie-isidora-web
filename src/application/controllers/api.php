@@ -6,7 +6,7 @@ class Api extends CI_Controller {
         parent::__construct();
     }
     public function index(){
-        echo "LucyModas Movil API 0.2";
+        echo "Isidora Movil API 0.2";
     }
     public function categorias(){
 

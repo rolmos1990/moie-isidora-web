@@ -30,7 +30,7 @@
         <form id="checkout" method="post" action="<?=$gateway;?>">
             <input name="merchantId" type="hidden" value="<?=$merchant_id;?>" >
             <input name="accountId" type="hidden" value="<?=$account_id;?>" >
-            <input name="description" type="hidden" value="Pedido Lucymodas <?=$id_venta;?>" >
+            <input name="description" type="hidden" value="Pedido IsidoraModads <?=$id_venta;?>" >
             <input name="referenceCode" type="hidden" value="<?=$referencia;?>" >
             <input name="amount" type="hidden" value="<?=$monto;?>" >
             <input name="tax" type="hidden" value="0" >

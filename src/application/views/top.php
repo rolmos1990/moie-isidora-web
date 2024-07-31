@@ -109,7 +109,7 @@
                 <div id="bandera"><img src="/img/bandera.png" style="height:22px;position:relative;top:2px;" /><span>Envíos a todo el país <br>Paga al recibir</span></div>
                 <ul>
                        <!--
-                    --><li onclick="window.open('https://www.facebook.com/lucymodascolombia')"><img src="/img/fb-verificacion.png?20171109" alt="verificacion facebook"></li>
+                    --><li onclick="window.open('https://www.facebook.com/isidoramodascl')"><img src="/img/fb-verificacion.png?20171109" alt="verificacion facebook"></li>
                 </ul>
                 <!--<div id="juego">
                     <?php
@@ -121,7 +121,7 @@
                 </div>-->
                 <div class="redes">
                     <span class="link" onclick="window.open('https://www.facebook.com/lucymodascolombia')">
-                        <img src="/img/fb.png"><b>lucymodascolombia</b>
+                        <img src="/img/fb.png"><b>Isidoramodascl</b>
                     </span>
                     <span class="link" onclick="window.open('https://www.instagram.com/Isidoramodascl')">
                         <img src="/img/in.png"><b>Isidoramodascl</b>

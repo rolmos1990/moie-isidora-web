@@ -3,7 +3,7 @@
     --><div class="article">
         <h3>SIGUENOS EN NUESTRAS REDES SOCIALES</h3>
         <span>
-            <img src="/img/fb.png">lucymodascolombia
+            <img src="/img/fb.png">Isidoramodascl
         </span>
         <span>
             <img src="/img/in.png">Isidoramodascl

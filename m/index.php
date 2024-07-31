@@ -55,7 +55,7 @@
 			<div class="wa">
 				<img src="res/img/wa.png" alt="wa"> <a href="http://api.whatsapp.com/send?phone=573218609580=Hola%21">+57 321 8609580</a>
 			</div><!--
-			--><div class="fb" onclick="window.open('http://www.facebook.com/lucymodascolombia')">
+			--><div class="fb" onclick="window.open('http://www.facebook.com/isidoramodas')">
 				<img src="res/img/fb.png" alt="fb">
 			</div><!--
 			--><div class="in" onclick="window.open('http://www.instagram.com/Isidoramodascl')">
