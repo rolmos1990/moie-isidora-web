@@ -1,14 +1,3 @@
-        <div id="titulo_categoria" style="background:url('<?=base_catalog_url() . 'categories/' . $categoria->filenameBanner . '?' . mdate('%Y%m%d%H');?>') no-repeat">
-            <div class="video">
-                <video width="300" height="210" autoplay loop>
-                    <source src="<?=base_url();?>vid/lucy.mp4" type="video/mp4">
-                </video>
-                <div class="texto">
-                    <b>Sede principal Isidora Modas</b><br>
-                    <cite>Chile</cite>
-                </div>
-            </div>
-        </div>
         <div id="productos">
             <?php foreach($productos as $p){ ?><!--
             --><div class="producto" href="<?=base_url();?>site/producto/<?=$p->codigo;?>">
