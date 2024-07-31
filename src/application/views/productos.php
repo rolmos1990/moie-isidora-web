@@ -4,8 +4,8 @@
                     <source src="<?=base_url();?>vid/lucy.mp4" type="video/mp4">
                 </video>
                 <div class="texto">
-                    <b>Sede principal Lucy Modas</b><br>
-                    <cite>Medellín - Colombia</cite>
+                    <b>Sede principal Isidora Modas</b><br>
+                    <cite>Chile</cite>
                 </div>
             </div>
         </div>
