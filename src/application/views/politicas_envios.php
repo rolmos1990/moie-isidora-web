@@ -5,7 +5,7 @@
         <img src="https://pngimage.net/wp-content/uploads/2018/05/envios-png-6.png" style="height:310px;"/>
         </div>
         <p>
-        <b>LUCY MODAS COLOMBIA S.A.S</b> realiza despachos a gran parte del
+        <b>ISIDORA MODAS CHILE S.A.S</b> realiza despachos a gran parte del
         territorio colombiano a través de Interrapidisimo u otra empresa
         transportadora convenida entre el (la) cliente y <b>LUCY MODAS
         COLOMBIA S.A.S.</b>
@@ -13,7 +13,7 @@
         hábiles para las ciudades de Bogotá y Medellín, 5-7 días hábiles para
         ciudades principales y hasta 10 días hábiles para otros destinos. Estos
         tiempos están sujetos a cambios de acuerdo a eventos promocionales
-        o externos a <b>LUCY MODAS COLOMBIA S.A.S</b> como eventos
+        o externos a <b>ISIDORA MODAS CHILE S.A.S</b> como eventos
         climáticos y propios de la transportadora.
         </p>
     </div>

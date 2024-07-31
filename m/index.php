@@ -43,7 +43,7 @@
 	</head>
 	<body ng-controller="AppController as app">
 		<header>
-			<div class="bandera"><img src="res/img/bandera.png" alt="bandera" /> Medellín - Colombia <!--<span ng-show="app.juego">| Hoy juega <b>{{ app.juego }}</b></span>--></div>
+			<div class="bandera"><img src="res/img/bandera.png" alt="bandera" />  <!--<span ng-show="app.juego">| Hoy juega <b>{{ app.juego }}</b></span>--></div>
 			<div class="logo"><img class="volver" src="res/img/volver.png" alt="volver" ng-click="app.volver()" ng-show="app.inicio()" /><img src="res/img/logo.png" alt="logo" /></div>
 			<div class="menu" ng-click="app.menuVisible = !app.menuVisible"><img src="res/img/menu.png" alt="menu" /> Menú</div>
 		</header>

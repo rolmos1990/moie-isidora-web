@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>Lucy Modas Colombia<?php if(isset($categoria)){ echo ' - ' . $categoria->nombre; }?></title>
+        <title>Isidora Modas Chile<?php if(isset($categoria)){ echo ' - ' . $categoria->nombre; }?></title>
 
         <!--[if IE]>
         <link href="/css/estilo_ie.css?201604301500" rel="stylesheet"/></script>
@@ -120,14 +120,14 @@
                     ?>
                 </div>-->
                 <div class="redes">
-                    <span class="link" onclick="window.open('https://www.facebook.com/lucymodascolombia')">
+                    <span class="link" onclick="window.open('https://www.facebook.com/isidoramodascl')">
                         <img src="/img/fb.png"><b>Isidoramodascl</b>
                     </span>
                     <span class="link" onclick="window.open('https://www.instagram.com/Isidoramodascl')">
                         <img src="/img/in.png"><b>Isidoramodascl</b>
                     </span>
                     <!--<span>
-                        <img src="/img/tw.png"><b>@Lucymodascol</b>
+                        <img src="/img/tw.png"><b>@isidoramodascl</b>
                     </span>-->
                     <span>
                         <img src="/img/tl.png"><b>304.283.96.82</b>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Catálogo en línea Lucy Modas Colombia</title>
+	<title>Catálogo en línea Isidora Modas</title>
         <link href="<?=base_url();?>css/fbapp.css?201503180900" rel="stylesheet">
         <link href="<?=base_url();?>css/producto.css?201503180900" rel="stylesheet">
         <link href="<?=base_url();?>css/colorbox/colorbox.css" rel="stylesheet">
