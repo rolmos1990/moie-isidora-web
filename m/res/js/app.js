@@ -88,6 +88,14 @@
             cargar: function(){
                 this.lista = [];
                 $http.get(api + 'rotativos').success(function(data){
+
+                    data = data.map(function(item) {
+                        if (item.nombre) {
+                            item.nombre = item.nombre.replace('.jpg', '_movil.jpg');
+                        }
+                        return item;
+                    });
+
                     inicio.rotativos.lista = data;
                 });
             }
