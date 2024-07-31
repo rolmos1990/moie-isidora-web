@@ -1,6 +1,6 @@
 <div id="pago_wrap">
     <div id="pago">
-        <h1>Bienvenid@ al sistema de reporte de pagos de Lucy Modas Colombia</h1>
+        <h1>Bienvenid@ al sistema de reporte de pagos de Isidora Modas Chile</h1>
         <p>A continuación, llene el formulario con la información correspondiente al 
             pago que realizó. Recuerde colocar un número de <strong>teléfono celular</strong> 
             y una dirección de <strong>correo electrónico</strong> válidos

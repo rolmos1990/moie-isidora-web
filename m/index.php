@@ -2,7 +2,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-		<title>Lucy Modas Colombia</title>
+		<title>Isidora Modas Chile</title>
 		<link rel="stylesheet" type="text/css" href="res/css/estilo.css?20171112">
 		<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" /> -->
 		<script type="text/javascript" src="res/js/lib/jquery-2.1.1.min.js"></script>
