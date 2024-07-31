@@ -17,6 +17,14 @@ class M_site extends CI_Model{
     function get_slider(){
         $this->db->order_by('orden', 'asc');
         $query=$this->db->get('slider');
+
+        if (!$query) {
+            // La consulta falló, puedes obtener más detalles del error
+            $error = $this->db->error();
+            log_message('error', 'Error en la consulta SQL: ' . $error['message']);
+            return false;
+        }
+
         return $query->result();
     }
     function nuevo_slide($nombre){
